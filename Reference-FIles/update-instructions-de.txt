@@ -1,0 +1,7 @@
+UTUBE MAC – Update abschließen
+
+1. Klicke auf „Kurzbefehl hinzufügen“.
+2. Wenn macOS fragt, ob der vorhandene Kurzbefehl ersetzt werden soll, wähle „Ersetzen“.
+3. Öffne danach die App „Kurzbefehle“.
+4. Starte „UTUBE MAC“ einmal erneut.
+5. Wähle „Update“, damit geprüft wird, ob alles aktuell ist.
