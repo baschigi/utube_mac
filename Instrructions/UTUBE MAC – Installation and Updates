@@ -1,0 +1,17 @@
+## UTUBE MAC – Installation and Updates
+
+### First installation
+
+1. Open the UTUBE MAC link.
+2. Click **Add Shortcut**.
+3. Start **UTUBE MAC** and choose your download folder.
+4. When macOS asks for your password, enter it in Terminal and press Return.
+
+### Updating UTUBE MAC
+
+1. Open the update link.
+2. Click **Add Shortcut**.
+3. If macOS says a shortcut with the same name already exists, choose **Replace**.
+4. Do **not** choose **Keep Both** unless you deliberately want a second test copy.
+
+After replacing it, run **UTUBE MAC** once and choose **Update** to check that everything is current.
