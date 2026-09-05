@@ -1,0 +1,9 @@
+UTUBE MAC – Updater-Test
+
+Dies ist kein echtes Update.
+
+Dieser Versionsordner dient ausschließlich dazu, die Update-Erkennung und die Anzeige der Update-Hinweise zu testen.
+
+Es ist keine installierbare UTUBE-MAC-Shortcut-Datei enthalten. Daher wird nichts installiert, ersetzt oder überschrieben.
+
+Du kannst dieses Hinweisfenster sicher schließen.
