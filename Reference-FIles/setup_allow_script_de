@@ -1,1 +1,21 @@
+🔐 UTUBE MAC – Einmalige Skriptfreigabe
 
+Damit UTUBE MAC Videos und Musik herunterladen sowie die benötigten Werkzeuge einrichten kann, muss macOS das Ausführen von Skripten in der App „Kurzbefehle“ einmal erlauben.
+
+So funktioniert es:
+
+1. Drücke in diesem Hinweis auf „OK“ beziehungsweise „Fortfahren“.
+2. macOS zeigt anschließend die Meldung „Skriptaktion nicht erlaubt“.
+3. Drücke in dieser Meldung unbedingt auf „Anzeigen“.
+4. Das Fenster „Kurzbefehle › Einstellungen › Fortgeschritten“ wird geöffnet.
+5. Aktiviere dort „Ausführen von Skripten erlauben“.
+6. Schließe das Einstellungsfenster und starte UTUBE MAC erneut.
+7. Wähle anschließend noch einmal „Einrichten“.
+
+✅ Diese Freigabe ist normalerweise nur einmal pro Mac-Benutzerkonto erforderlich.
+
+🛡️ Sicherheitshinweis
+
+Aktiviere diese Einstellung nur für Kurzbefehle und Skripte, denen du vertraust. UTUBE MAC verwendet die Freigabe für seine lokalen Installations-, Download- und Verwaltungsfunktionen.
+
+Wenn „Ausführen von Skripten erlauben“ bereits aktiviert ist, kannst du diesen Hinweis einfach schließen und mit der Einrichtung fortfahren.
