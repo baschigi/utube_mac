@@ -1,0 +1,56 @@
+UTUBE MAC 6.1.0
+================
+
+Großes Komfort-, Stabilitäts- und Update-Upgrade 🚀
+
+🌐 NEUES UPDATE-SYSTEM MIT GITHUB
+• Die neueste Version wird automatisch anhand des höchsten Versionsordners unter „Shortcut Versions“ erkannt.
+• Tiny.cc und eine manuell gepflegte Versionsnummer-Datei werden nicht mehr benötigt.
+• Das vollständige GitHub-Repository wird bei der Einrichtung und Aktualisierung lokal gespeichert.
+• Alle Shortcut-Versionen werden zusätzlich als dauerhafter Verlauf in „Application Support/UTUBE-MAC/History/Shortcut Versions“ gesammelt.
+• Deutsche Versionshinweise werden direkt aus „UPDATE NOTE DE.txt“ im jeweiligen Versionsordner angezeigt.
+• Auch bei einem echten Update werden die Neuerungen vor der Installation angezeigt.
+• Ein hoher Test-Versionsordner ohne .shortcut-Datei zeigt nur seinen Hinweis an und kann nichts überschreiben.
+
+⬇️ VERBESSERTE DOWNLOADS
+• Neue gemeinsame Live-Fortschrittsanzeige für mehrere Downloads mit Farben, Animation, Uhrzeit, Laufzeit, Geschwindigkeit und Restzeit.
+• Das Download-Dashboard besitzt jetzt eine interaktive Playlist-Ansicht: Mit „L“ lässt sich die Titelliste auf- und zuklappen; mit „N“ und „P“ kann durch lange Playlists geblättert werden.
+• Jeder Playlist-Titel erhält einen eigenen Status, eine kleine Fortschrittsanzeige und ein verständliches Symbol für wartend, aktiv, abgeschlossen, übersprungen oder fehlgeschlagen.
+• Zusätzliche Pulsanimationen und eine ständig sichtbare Tastaturhilfe machen das Dashboard lebendiger und leichter bedienbar.
+• Das Dashboard kann mit Ctrl-C jederzeit sauber beendet werden und stellt dabei den normalen Terminalbildschirm zuverlässig wieder her.
+• Cowsay zeigt auf humorvolle Weise die Anzahl aktiver Downloads und den Abschluss an. 🐄
+• Weitere Downloads verwenden dasselbe Fortschrittsfenster, statt zusätzliche Fenster zu öffnen.
+• Parallele Downloads werden sauber voneinander getrennt. Eine .part-Datei eines anderen Jobs verursacht keine falsche „Unvollständig“-Meldung mehr.
+• Bereits vorhandene Dateien werden zuverlässig erkannt.
+• Bei einem vorhandenen Download stehen „Nicht erneut laden“, „Datei anzeigen“ und „Erneut herunterladen“ zur Verfügung.
+• Unvollständige Downloads können beim nächsten Start fortgesetzt werden.
+• Aussagekräftigere Fehlermeldungen und direkter Zugriff auf das zugehörige Protokoll.
+• Nach erfolgreichem Download werden Dateigröße, Dauer, Format sowie wichtige Audio- oder Videodaten angezeigt.
+• Die AirDrop-Funktion übergibt die fertige Datei jetzt direkt an den nativen macOS-AirDrop-Dialog, statt nur Finder und AirDrop zu öffnen.
+• Eine leise automatische Update-Prüfung kann beim Start des Shortcuts ausgeführt werden. GitHub wird höchstens einmal täglich geprüft und dieselbe Version wird höchstens einmal pro Woche gemeldet.
+• Einzelne Versionen können bis zum Erscheinen einer neueren Version ignoriert werden.
+• Das animierte Dashboard verwendet einen eigenen Bildschirmbereich und füllt dadurch nicht mehr den normalen Terminal-Verlauf mit sekündlichen Wiederholungen.
+
+🛠️ EINFACHERE UND SICHERERE EINRICHTUNG
+• Komplett überarbeitete, farbige Einrichtung mit Startübersicht, sieben verständlichen Fortschrittsstufen, einheitlichen Statussymbolen und einem übersichtlichen Abschluss-Dashboard.
+• Farben, Rahmen, Symbole und die animierte Warteanzeige funktionieren bereits vor der Homebrew-Installation und benötigen nur die in macOS eingebauten Funktionen.
+• Ordnerpfade, GitHub-Dateizahl, Shortcut-Versionen und die gesamte Einrichtungsdauer werden gut lesbar angezeigt.
+• Apple Command Line Tools werden automatisch geprüft. Während einer notwendigen Installation zeigt UTUBE MAC einen Spinner und die vergangene Zeit an.
+• Das Einrichtungsfenster schließt sich nach erfolgreichem Abschluss automatisch nach 20 Sekunden.
+• Bei einem Fehler bleibt das Terminal für die Diagnose geöffnet und das Einrichtungsprotokoll wird gespeichert.
+• Kein zusätzliches leeres Terminalfenster mehr beim Start der Einrichtung oder Fortschrittsanzeige.
+• Auch beim gelegentlichen vollständigen Kaltstart von Terminal wird dessen erstes Fenster für UTUBE MAC wiederverwendet, damit kein zweites leeres Fenster zurückbleibt.
+• Verbesserte Behandlung der macOS-Ordnerrechte auf Intel- und Apple-Silicon-Macs.
+• Wenn der Downloadordner nicht beschreibbar ist, kann der Zugriff erneut geprüft oder ein sicherer Ersatzordner verwendet werden. Die restliche Einrichtung wird nicht mehr unnötig blockiert.
+• Bestehende Hilfsprogramme werden vor dem Ersetzen mit Versionsnummer, Zeitstempel und Prüfsumme im Script-Verlauf gesichert.
+
+🎵 APPLE MUSIC UND VERLAUF
+• „Audiodateien zu Music verschieben“ findet MP3-Dateien in Single- und Playlist-Ordnern automatisch und fragt vor dem Verschieben mit der genauen Anzahl nach.
+• Der automatische Apple-Music-Import wurde zuverlässiger gestaltet.
+• Ein roter Finder-Alias zum Apple-Music-Importordner wird im UTUBE-MAC-Downloadordner bereitgestellt.
+• Der lesbare Downloadverlauf enthält ausführlichere Angaben und wird nach 1.000 Vorgängen automatisch archiviert.
+• Die Einrichtung gleicht den Verlauf jetzt mit allen vorhandenen Mediendateien ab und trägt ältere, bisher nicht detailliert erfasste Downloads automatisch nach.
+• Bei älteren Dateien wird die ursprüngliche YouTube-Adresse aus den eingebetteten Metadaten zurückgewonnen, sofern sie dort vorhanden ist; fehlende Angaben werden ehrlich als unbekannt markiert.
+• Eine neue Schreibsperre schützt den lesbaren Verlauf, wenn mehrere Downloads nahezu gleichzeitig fertig werden, damit Einträge nicht ineinanderlaufen oder verloren gehen.
+
+✅ Außerdem wurden zahlreiche kleinere Stabilitäts-, Ordnerstruktur- und Bedienungsverbesserungen vorgenommen.
