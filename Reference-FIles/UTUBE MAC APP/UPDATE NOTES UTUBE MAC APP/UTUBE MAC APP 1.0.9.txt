@@ -1,0 +1,26 @@
+UTUBE MAC APP 1.0.9  
+11. September 2026 · 22:45 CEST
+
+✨ Neu
+
+• Gemeinsame Update-Prüfung für UTUBE-MAC-UI und Shortcut  
+• Ladeanzeige während der Update-Prüfung  
+• Einstellungen können oben rechts geschlossen werden  
+• Entwickler-Symbol ⌘ unten links im Einstellungsfenster  
+• Entwicklerbereich für Wartung, Diagnose und getrennte Entwickler-Aktionen  
+
+🛠 Verbesserungen
+
+• Die UI- und Shortcut-Versionen werden getrennt verglichen  
+• Update-Hinweise erscheinen nur bei einer tatsächlich neueren GitHub-Version  
+• Doppelte Update-Knöpfe aus „Erweitert“ entfernt  
+• Erweiterte Download-Optionen öffnen sich passend zur gewählten YouTube-URL  
+• Verbesserte Erkennung für Musik, Karaoke, Tutorials, Comedy und Videos mit hoher Bildqualität  
+
+ℹ️ Hinweis
+
+Die UI-App wird ausschließlich mit Paketen aus  
+Reference-FIles/UTUBE MAC APP  
+verglichen. Shortcut-Versionen werden separat aus  
+Shortcut Versions  
+geprüft.
